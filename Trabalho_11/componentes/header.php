@@ -21,6 +21,8 @@
           <li><a href="editar.php">Editar Produto</a></li>
           <li><a href="deletar.php">Deletar Produto</a></li>
           <li><a href="vendas.php">Registrar Vendas</a></li>
+          <li><a href="ralc.php">RALC</a></li>
+          <li><a href="cookies.php">Cookies</a></li>
           <li><a href="sair.php">Sair</a></li>
         </ul>
       </nav>
